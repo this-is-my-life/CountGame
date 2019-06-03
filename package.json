@@ -1,0 +1,24 @@
+{
+  "name": "countgame",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMHStudio/countGame.git"
+  },
+  "author": "PMH Studio / PMH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PMHStudio/countGame/issues"
+  },
+  "homepage": "https://github.com/PMHStudio/countGame#readme",
+  "dependencies": {
+    "clear-console": "^1.1.0",
+    "readline": "^1.3.0"
+  }
+}
