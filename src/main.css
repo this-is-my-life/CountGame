@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.expressionDisplay {
+  margin-top: 30vh;
+}
+
+.previousExpression {
+  text-align: right;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 220%;
+  text-overflow: ellipsis;
+  font-weight: bolder;
+}
+
+.expression {
+  text-align: left;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 220%;
+  font-weight: bolder;
+  color: #e76d6d
+}
+
+.devi2 {
+  height: 30vh;
+  width: 5px;
+}
+
+#input {
+  transition-timing-function: easeInOutQuart;
+  transition:  all 1s;
+}
